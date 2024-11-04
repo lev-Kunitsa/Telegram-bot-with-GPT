@@ -9,7 +9,7 @@ GPT Chat Bot
 Установка:
 
 1.Клонируйте репозиторий:  
-`git clone <your-repo-url>`
+`git clone lev-Kunitsa/Telegram-bot-with-GPT`
 
 2.Перейдите в директорию проекта:  
 `cd your-project-name`
